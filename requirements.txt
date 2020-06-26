@@ -13,7 +13,6 @@ cachetools==4.1.0
 certifi==2018.1.18
 chardet==3.0.4
 click==6.7
-cloud-init==19.4
 colorama==0.3.7
 command-not-found==0.3
 configobj==5.0.6
@@ -25,7 +24,6 @@ defusedxml==0.6.0
 distro-info===0.18ubuntu0.18.04.1
 docutils==0.15.2
 entrypoints==0.3
-fail2ban==0.10.2
 future==0.18.2
 gast==0.3.3
 google-auth==1.17.1
@@ -76,11 +74,9 @@ numpy==1.18.5
 oauthlib==3.1.0
 opt-einsum==3.2.1
 packaging==20.4
-PAM==0.4.2
 pandas==1.0.4
 pandocfilters==1.4.2
 parso==0.7.0
-pcp==1.2
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==7.1.2
@@ -131,8 +127,8 @@ tensorflow-estimator==2.2.0
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
-torch==1.5.0+cpu
-torchvision==0.6.0+cpu
+torch
+torchvision
 tornado==6.0.4
 tqdm==4.46.1
 traitlets==4.3.3
