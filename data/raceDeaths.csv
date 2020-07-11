@@ -1,0 +1,259 @@
+Data as of,State,Race,Count of COVID-19 deaths,Distribution of COVID-19 deaths (%),Unweighted distribution of population (%),Weighted distribution of population (%)
+07/08/2020,United States,Non-Hispanic White,60862.0,53.0,60.4,42.1
+07/08/2020,Alabama,Non-Hispanic White,479.0,49.4,65.4,53.1
+07/08/2020,Arizona,Non-Hispanic White,650.0,46.1,54.4,54.7
+07/08/2020,Arkansas,Non-Hispanic White,147.0,57.0,72.2,59.6
+07/08/2020,California,Non-Hispanic White,1723.0,31.7,36.8,28.1
+07/08/2020,Colorado,Non-Hispanic White,967.0,62.6,67.9,62.3
+07/08/2020,Connecticut,Non-Hispanic White,2670.0,73.4,66.5,61.9
+07/08/2020,Delaware,Non-Hispanic White,342.0,70.5,61.9,60.9
+07/08/2020,DC,Non-Hispanic White,67.0,11.9,37.1,37.1
+07/08/2020,Florida,Non-Hispanic White,1555.0,49.9,53.5,31.8
+07/08/2020,Georgia,Non-Hispanic White,1007.0,47.0,52.4,42.0
+07/08/2020,Illinois,Non-Hispanic White,2774.0,45.4,61.0,43.1
+07/08/2020,Indiana,Non-Hispanic White,1835.0,75.0,78.9,59.6
+07/08/2020,Iowa,Non-Hispanic White,552.0,79.0,85.3,78.9
+07/08/2020,Kansas,Non-Hispanic White,149.0,58.9,75.7,70.7
+07/08/2020,Kentucky,Non-Hispanic White,412.0,77.6,84.3,69.2
+07/08/2020,Louisiana,Non-Hispanic White,1165.0,43.1,58.6,49.0
+07/08/2020,Maine,Non-Hispanic White,104.0,95.4,93.1,91.0
+07/08/2020,Maryland,Non-Hispanic White,1428.0,43.2,50.5,41.0
+07/08/2020,Massachusetts,Non-Hispanic White,5849.0,80.3,71.4,68.9
+07/08/2020,Michigan,Non-Hispanic White,2798.0,53.1,74.9,59.3
+07/08/2020,Minnesota,Non-Hispanic White,1108.0,82.1,79.5,68.7
+07/08/2020,Mississippi,Non-Hispanic White,403.0,42.3,56.5,42.8
+07/08/2020,Missouri,Non-Hispanic White,539.0,60.6,79.3,65.5
+07/08/2020,Nebraska,Non-Hispanic White,155.0,64.3,78.6,71.0
+07/08/2020,Nevada,Non-Hispanic White,215.0,46.4,48.7,43.3
+07/08/2020,New Hampshire,Non-Hispanic White,323.0,93.4,90.0,85.7
+07/08/2020,New Jersey,Non-Hispanic White,7075.0,54.3,54.9,49.2
+07/08/2020,New Mexico,Non-Hispanic White,118.0,28.5,37.1,37.8
+07/08/2020,New York,Non-Hispanic White,6698.0,63.9,73.0,62.8
+07/08/2020,North Carolina,Non-Hispanic White,502.0,57.1,62.8,54.7
+07/08/2020,Ohio,Non-Hispanic White,1834.0,78.5,78.7,65.7
+07/08/2020,Oklahoma,Non-Hispanic White,272.0,73.1,65.3,59.8
+07/08/2020,Oregon,Non-Hispanic White,155.0,76.7,75.3,69.9
+07/08/2020,Pennsylvania,Non-Hispanic White,4640.0,69.5,76.1,57.4
+07/08/2020,Rhode Island,Non-Hispanic White,712.0,84.4,72.0,62.3
+07/08/2020,South Carolina,Non-Hispanic White,318.0,47.7,63.7,60.2
+07/08/2020,Tennessee,Non-Hispanic White,271.0,53.8,73.7,49.4
+07/08/2020,Texas,Non-Hispanic White,947.0,39.3,41.5,32.7
+07/08/2020,Utah,Non-Hispanic White,92.0,57.5,78.0,73.0
+07/08/2020,Virginia,Non-Hispanic White,1048.0,58.1,61.5,51.8
+07/08/2020,Washington,Non-Hispanic White,799.0,71.7,68.0,60.9
+07/08/2020,Wisconsin,Non-Hispanic White,444.0,61.1,81.1,57.1
+07/08/2020,United States,Non-Hispanic Black or African American,26426.0,23.0,12.5,17.0
+07/08/2020,Alabama,Non-Hispanic Black or African American,460.0,47.4,26.5,39.4
+07/08/2020,Arizona,Non-Hispanic Black or African American,47.0,3.3,4.4,5.2
+07/08/2020,Arkansas,Non-Hispanic Black or African American,59.0,22.9,15.4,25.9
+07/08/2020,California,Non-Hispanic Black or African American,496.0,9.1,5.6,7.5
+07/08/2020,Colorado,Non-Hispanic Black or African American,120.0,7.8,4.0,6.4
+07/08/2020,Connecticut,Non-Hispanic Black or African American,558.0,15.3,10.2,12.1
+07/08/2020,Delaware,Non-Hispanic Black or African American,116.0,23.9,21.9,22.3
+07/08/2020,DC,Non-Hispanic Black or African American,408.0,72.6,44.9,44.9
+07/08/2020,Florida,Non-Hispanic Black or African American,682.0,21.9,15.5,17.8
+07/08/2020,Georgia,Non-Hispanic Black or African American,990.0,46.2,31.5,38.4
+07/08/2020,Illinois,Non-Hispanic Black or African American,1652.0,27.0,14.1,22.3
+07/08/2020,Indiana,Non-Hispanic Black or African American,487.0,19.9,9.5,23.6
+07/08/2020,Iowa,Non-Hispanic Black or African American,41.0,5.9,3.8,6.4
+07/08/2020,Kansas,Non-Hispanic Black or African American,52.0,20.6,5.7,8.2
+07/08/2020,Kentucky,Non-Hispanic Black or African American,90.0,16.9,8.2,19.8
+07/08/2020,Louisiana,Non-Hispanic Black or African American,1439.0,53.3,32.3,38.0
+07/08/2020,Maine,Non-Hispanic Black or African American,,,1.5,2.7
+07/08/2020,Maryland,Non-Hispanic Black or African American,1360.0,41.1,29.8,33.1
+07/08/2020,Massachusetts,Non-Hispanic Black or African American,629.0,8.6,7.2,7.6
+07/08/2020,Michigan,Non-Hispanic Black or African American,2195.0,41.7,13.8,28.2
+07/08/2020,Minnesota,Non-Hispanic Black or African American,113.0,8.4,6.6,12.6
+07/08/2020,Mississippi,Non-Hispanic Black or African American,473.0,49.6,37.4,52.4
+07/08/2020,Missouri,Non-Hispanic Black or African American,315.0,35.4,11.6,24.6
+07/08/2020,Nebraska,Non-Hispanic Black or African American,14.0,5.8,4.8,9.6
+07/08/2020,Nevada,Non-Hispanic Black or African American,69.0,14.9,9.1,11.4
+07/08/2020,New Hampshire,Non-Hispanic Black or African American,,,1.4,2.2
+07/08/2020,New Jersey,Non-Hispanic Black or African American,2355.0,18.1,12.9,14.5
+07/08/2020,New Mexico,Non-Hispanic Black or African American,,,1.8,2.2
+07/08/2020,New York,Non-Hispanic Black or African American,1669.0,15.9,8.8,10.6
+07/08/2020,North Carolina,Non-Hispanic Black or African American,308.0,35.0,21.4,26.4
+07/08/2020,Ohio,Non-Hispanic Black or African American,429.0,18.4,12.6,22.6
+07/08/2020,Oklahoma,Non-Hispanic Black or African American,34.0,9.1,7.4,12.1
+07/08/2020,Oregon,Non-Hispanic Black or African American,,,2.0,4.1
+07/08/2020,Pennsylvania,Non-Hispanic Black or African American,1450.0,21.7,10.8,23.2
+07/08/2020,Rhode Island,Non-Hispanic Black or African American,50.0,5.9,6.0,8.3
+07/08/2020,South Carolina,Non-Hispanic Black or African American,326.0,48.9,26.6,29.4
+07/08/2020,Tennessee,Non-Hispanic Black or African American,172.0,34.1,16.7,38.1
+07/08/2020,Texas,Non-Hispanic Black or African American,469.0,19.5,12.0,16.9
+07/08/2020,Utah,Non-Hispanic Black or African American,,,1.1,1.6
+07/08/2020,Virginia,Non-Hispanic Black or African American,430.0,23.8,19.1,13.6
+07/08/2020,Washington,Non-Hispanic Black or African American,42.0,3.8,3.9,6.1
+07/08/2020,Wisconsin,Non-Hispanic Black or African American,175.0,24.1,6.4,21.8
+07/08/2020,United States,Non-Hispanic American Indian or Alaska Native,888.0,0.8,0.7,0.3
+07/08/2020,Alabama,Non-Hispanic American Indian or Alaska Native,,,0.6,0.4
+07/08/2020,Arizona,Non-Hispanic American Indian or Alaska Native,299.0,21.2,4.0,1.9
+07/08/2020,Arkansas,Non-Hispanic American Indian or Alaska Native,0.0,0.0,0.8,0.6
+07/08/2020,California,Non-Hispanic American Indian or Alaska Native,16.0,0.3,0.4,0.2
+07/08/2020,Colorado,Non-Hispanic American Indian or Alaska Native,10.0,0.6,0.6,0.5
+07/08/2020,Connecticut,Non-Hispanic American Indian or Alaska Native,,,0.2,0.2
+07/08/2020,Delaware,Non-Hispanic American Indian or Alaska Native,,,0.3,0.3
+07/08/2020,DC,Non-Hispanic American Indian or Alaska Native,,,0.2,0.2
+07/08/2020,Florida,Non-Hispanic American Indian or Alaska Native,,,0.3,0.1
+07/08/2020,Georgia,Non-Hispanic American Indian or Alaska Native,0.0,0.0,0.2,0.2
+07/08/2020,Illinois,Non-Hispanic American Indian or Alaska Native,10.0,0.2,0.2,0.1
+07/08/2020,Indiana,Non-Hispanic American Indian or Alaska Native,,,0.2,0.2
+07/08/2020,Iowa,Non-Hispanic American Indian or Alaska Native,13.0,1.9,0.3,0.3
+07/08/2020,Kansas,Non-Hispanic American Indian or Alaska Native,,,0.8,0.5
+07/08/2020,Kentucky,Non-Hispanic American Indian or Alaska Native,0.0,0.0,0.2,0.1
+07/08/2020,Louisiana,Non-Hispanic American Indian or Alaska Native,,,0.6,0.4
+07/08/2020,Maine,Non-Hispanic American Indian or Alaska Native,0.0,0.0,0.7,0.3
+07/08/2020,Maryland,Non-Hispanic American Indian or Alaska Native,,,0.2,0.2
+07/08/2020,Massachusetts,Non-Hispanic American Indian or Alaska Native,,,0.2,0.1
+07/08/2020,Michigan,Non-Hispanic American Indian or Alaska Native,,,0.6,0.3
+07/08/2020,Minnesota,Non-Hispanic American Indian or Alaska Native,20.0,1.5,1.1,0.7
+07/08/2020,Mississippi,Non-Hispanic American Indian or Alaska Native,63.0,6.6,0.5,0.2
+07/08/2020,Missouri,Non-Hispanic American Indian or Alaska Native,,,0.4,0.2
+07/08/2020,Nebraska,Non-Hispanic American Indian or Alaska Native,,,0.8,0.5
+07/08/2020,Nevada,Non-Hispanic American Indian or Alaska Native,,,0.9,0.5
+07/08/2020,New Hampshire,Non-Hispanic American Indian or Alaska Native,0.0,0.0,0.2,0.2
+07/08/2020,New Jersey,Non-Hispanic American Indian or Alaska Native,10.0,0.1,0.1,0.1
+07/08/2020,New Mexico,Non-Hispanic American Indian or Alaska Native,238.0,57.5,8.8,10.2
+07/08/2020,New York,Non-Hispanic American Indian or Alaska Native,18.0,0.2,0.3,0.2
+07/08/2020,North Carolina,Non-Hispanic American Indian or Alaska Native,,,1.1,0.7
+07/08/2020,Ohio,Non-Hispanic American Indian or Alaska Native,,,0.2,0.2
+07/08/2020,Oklahoma,Non-Hispanic American Indian or Alaska Native,38.0,10.2,8.3,4.8
+07/08/2020,Oregon,Non-Hispanic American Indian or Alaska Native,,,1.1,0.7
+07/08/2020,Pennsylvania,Non-Hispanic American Indian or Alaska Native,,,0.1,0.2
+07/08/2020,Rhode Island,Non-Hispanic American Indian or Alaska Native,,,0.4,0.4
+07/08/2020,South Carolina,Non-Hispanic American Indian or Alaska Native,,,0.4,0.3
+07/08/2020,Tennessee,Non-Hispanic American Indian or Alaska Native,,,0.3,0.2
+07/08/2020,Texas,Non-Hispanic American Indian or Alaska Native,,,0.3,0.2
+07/08/2020,Utah,Non-Hispanic American Indian or Alaska Native,11.0,6.9,0.9,0.7
+07/08/2020,Virginia,Non-Hispanic American Indian or Alaska Native,,,0.3,0.2
+07/08/2020,Washington,Non-Hispanic American Indian or Alaska Native,17.0,1.5,1.3,0.7
+07/08/2020,Wisconsin,Non-Hispanic American Indian or Alaska Native,,,0.9,0.6
+07/08/2020,United States,Non-Hispanic Asian,5629.0,4.9,5.7,10.6
+07/08/2020,Alabama,Non-Hispanic Asian,,,1.5,2.0
+07/08/2020,Arizona,Non-Hispanic Asian,17.0,1.2,3.4,4.2
+07/08/2020,Arkansas,Non-Hispanic Asian,,,1.6,2.5
+07/08/2020,California,Non-Hispanic Asian,812.0,14.9,14.7,14.8
+07/08/2020,Colorado,Non-Hispanic Asian,57.0,3.7,3.3,4.3
+07/08/2020,Connecticut,Non-Hispanic Asian,45.0,1.2,4.7,5.3
+07/08/2020,Delaware,Non-Hispanic Asian,0.0,0.0,4.0,4.5
+07/08/2020,DC,Non-Hispanic Asian,10.0,1.8,4.3,4.3
+07/08/2020,Florida,Non-Hispanic Asian,57.0,1.8,2.8,2.4
+07/08/2020,Georgia,Non-Hispanic Asian,33.0,1.5,4.2,6.7
+07/08/2020,Illinois,Non-Hispanic Asian,309.0,5.1,5.7,7.7
+07/08/2020,Indiana,Non-Hispanic Asian,23.0,0.9,2.4,3.3
+07/08/2020,Iowa,Non-Hispanic Asian,26.0,3.7,2.7,4.4
+07/08/2020,Kansas,Non-Hispanic Asian,,,3.1,4.8
+07/08/2020,Kentucky,Non-Hispanic Asian,11.0,2.1,1.6,3.0
+07/08/2020,Louisiana,Non-Hispanic Asian,18.0,0.7,1.8,3.0
+07/08/2020,Maine,Non-Hispanic Asian,0.0,0.0,1.2,2.0
+07/08/2020,Maryland,Non-Hispanic Asian,138.0,4.2,6.6,9.1
+07/08/2020,Massachusetts,Non-Hispanic Asian,225.0,3.1,7.0,8.9
+07/08/2020,Michigan,Non-Hispanic Asian,60.0,1.1,3.3,4.7
+07/08/2020,Minnesota,Non-Hispanic Asian,49.0,3.6,5.1,8.3
+07/08/2020,Mississippi,Non-Hispanic Asian,,,1.0,1.0
+07/08/2020,Missouri,Non-Hispanic Asian,14.0,1.6,2.1,4.1
+07/08/2020,Nebraska,Non-Hispanic Asian,10.0,4.1,2.6,4.0
+07/08/2020,Nevada,Non-Hispanic Asian,69.0,14.9,8.3,9.7
+07/08/2020,New Hampshire,Non-Hispanic Asian,,,2.9,4.0
+07/08/2020,New Jersey,Non-Hispanic Asian,813.0,6.2,9.8,11.8
+07/08/2020,New Mexico,Non-Hispanic Asian,,,1.5,2.2
+07/08/2020,New York,Non-Hispanic Asian,403.0,3.8,4.3,6.7
+07/08/2020,North Carolina,Non-Hispanic Asian,13.0,1.5,3.1,5.0
+07/08/2020,Ohio,Non-Hispanic Asian,29.0,1.2,2.4,3.7
+07/08/2020,Oklahoma,Non-Hispanic Asian,,,2.3,3.5
+07/08/2020,Oregon,Non-Hispanic Asian,,,4.7,7.4
+07/08/2020,Pennsylvania,Non-Hispanic Asian,163.0,2.4,3.6,6.3
+07/08/2020,Rhode Island,Non-Hispanic Asian,13.0,1.5,3.5,4.2
+07/08/2020,South Carolina,Non-Hispanic Asian,,,1.7,2.2
+07/08/2020,Tennessee,Non-Hispanic Asian,12.0,2.4,1.8,2.9
+07/08/2020,Texas,Non-Hispanic Asian,77.0,3.2,5.0,6.5
+07/08/2020,Utah,Non-Hispanic Asian,,,2.6,4.2
+07/08/2020,Virginia,Non-Hispanic Asian,113.0,6.3,6.8,16.2
+07/08/2020,Washington,Non-Hispanic Asian,102.0,9.2,9.1,16.9
+07/08/2020,Wisconsin,Non-Hispanic Asian,20.0,2.8,3.0,4.4
+07/08/2020,United States,Hispanic or Latino,19409.0,16.9,18.3,28.1
+07/08/2020,Alabama,Hispanic or Latino,21.0,2.2,4.4,3.7
+07/08/2020,Arizona,Hispanic or Latino,367.0,26.0,31.6,31.9
+07/08/2020,Arkansas,Hispanic or Latino,19.0,7.4,7.7,9.3
+07/08/2020,California,Hispanic or Latino,2335.0,43.0,39.3,47.2
+07/08/2020,Colorado,Hispanic or Latino,369.0,23.9,21.7,24.0
+07/08/2020,Connecticut,Hispanic or Latino,341.0,9.4,16.5,18.9
+07/08/2020,Delaware,Hispanic or Latino,23.0,4.7,9.5,9.8
+07/08/2020,DC,Hispanic or Latino,74.0,13.2,11.3,11.3
+07/08/2020,Florida,Hispanic or Latino,809.0,26.0,26.1,46.6
+07/08/2020,Georgia,Hispanic or Latino,103.0,4.8,9.8,10.8
+07/08/2020,Illinois,Hispanic or Latino,1328.0,21.7,17.4,25.2
+07/08/2020,Indiana,Hispanic or Latino,95.0,3.9,7.1,10.9
+07/08/2020,Iowa,Hispanic or Latino,54.0,7.7,6.2,7.9
+07/08/2020,Kansas,Hispanic or Latino,40.0,15.8,12.1,13.3
+07/08/2020,Kentucky,Hispanic or Latino,18.0,3.4,3.8,5.6
+07/08/2020,Louisiana,Hispanic or Latino,66.0,2.4,5.2,8.1
+07/08/2020,Maine,Hispanic or Latino,,,1.7,2.1
+07/08/2020,Maryland,Hispanic or Latino,362.0,10.9,10.4,14.2
+07/08/2020,Massachusetts,Hispanic or Latino,489.0,6.7,12.3,12.7
+07/08/2020,Michigan,Hispanic or Latino,125.0,2.4,5.2,5.3
+07/08/2020,Minnesota,Hispanic or Latino,54.0,4.0,5.5,6.9
+07/08/2020,Mississippi,Hispanic or Latino,10.0,1.0,3.4,2.6
+07/08/2020,Missouri,Hispanic or Latino,17.0,1.9,4.3,3.5
+07/08/2020,Nebraska,Hispanic or Latino,60.0,24.9,11.2,12.6
+07/08/2020,Nevada,Hispanic or Latino,100.0,21.6,29.0,31.4
+07/08/2020,New Hampshire,Hispanic or Latino,,,3.9,6.2
+07/08/2020,New Jersey,Hispanic or Latino,2728.0,20.9,20.6,22.9
+07/08/2020,New Mexico,Hispanic or Latino,52.0,12.6,49.1,45.8
+07/08/2020,New York,Hispanic or Latino,1634.0,15.6,11.7,18.3
+07/08/2020,North Carolina,Hispanic or Latino,48.0,5.5,9.6,11.1
+07/08/2020,Ohio,Hispanic or Latino,37.0,1.6,3.9,5.4
+07/08/2020,Oklahoma,Hispanic or Latino,15.0,4.0,10.9,14.7
+07/08/2020,Oregon,Hispanic or Latino,25.0,12.4,13.3,14.1
+07/08/2020,Pennsylvania,Hispanic or Latino,400.0,6.0,7.6,11.1
+07/08/2020,Rhode Island,Hispanic or Latino,63.0,7.5,15.9,22.5
+07/08/2020,South Carolina,Hispanic or Latino,15.0,2.2,5.8,6.2
+07/08/2020,Tennessee,Hispanic or Latino,44.0,8.7,5.6,7.6
+07/08/2020,Texas,Hispanic or Latino,898.0,37.3,39.6,42.2
+07/08/2020,Utah,Hispanic or Latino,40.0,25.0,14.2,18.1
+07/08/2020,Virginia,Hispanic or Latino,205.0,11.4,9.6,15.1
+07/08/2020,Washington,Hispanic or Latino,134.0,12.0,12.9,10.8
+07/08/2020,Wisconsin,Hispanic or Latino,81.0,11.1,6.9,13.8
+07/08/2020,United States,Other,1527.0,1.3,2.4,1.9
+07/08/2020,Alabama,Other,,,1.6,1.3
+07/08/2020,Arizona,Other,31.0,2.2,2.2,2.2
+07/08/2020,Arkansas,Other,32.0,12.4,2.3,2.1
+07/08/2020,California,Other,54.0,1.0,3.1,2.2
+07/08/2020,Colorado,Other,21.0,1.4,2.4,2.5
+07/08/2020,Connecticut,Other,20.0,0.6,1.8,1.7
+07/08/2020,Delaware,Other,,,2.3,2.2
+07/08/2020,DC,Other,,,2.3,2.2
+07/08/2020,Florida,Other,10.0,0.3,1.7,1.2
+07/08/2020,Georgia,Other,,,1.9,2.0
+07/08/2020,Illinois,Other,36.0,0.6,1.7,1.5
+07/08/2020,Indiana,Other,,,1.9,2.4
+07/08/2020,Iowa,Other,13.0,1.9,1.8,2.2
+07/08/2020,Kansas,Other,,,2.7,2.6
+07/08/2020,Kentucky,Other,0.0,0.0,1.9,2.3
+07/08/2020,Louisiana,Other,,,1.5,1.4
+07/08/2020,Maine,Other,,,1.7,1.9
+07/08/2020,Maryland,Other,17.0,0.5,2.5,2.4
+07/08/2020,Massachusetts,Other,85.0,1.2,1.9,1.9
+07/08/2020,Michigan,Other,83.0,1.6,2.3,2.3
+07/08/2020,Minnesota,Other,,,2.3,2.9
+07/08/2020,Mississippi,Other,,,1.2,1.0
+07/08/2020,Missouri,Other,,,2.3,2.1
+07/08/2020,Nebraska,Other,,,2.0,2.3
+07/08/2020,Nevada,Other,,,4.1,3.7
+07/08/2020,New Hampshire,Other,,,1.6,1.7
+07/08/2020,New Jersey,Other,47.0,0.4,1.6,1.5
+07/08/2020,New Mexico,Other,,,1.6,1.8
+07/08/2020,New York,Other,68.0,0.6,1.8,1.5
+07/08/2020,North Carolina,Other,,,2.0,2.1
+07/08/2020,Ohio,Other,,,2.2,2.5
+07/08/2020,Oklahoma,Other,10.0,2.7,5.8,5.1
+07/08/2020,Oregon,Other,,,3.7,3.7
+07/08/2020,Pennsylvania,Other,18.0,0.3,1.7,1.9
+07/08/2020,Rhode Island,Other,,,2.2,2.2
+07/08/2020,South Carolina,Other,,,1.8,1.8
+07/08/2020,Tennessee,Other,,,1.8,1.7
+07/08/2020,Texas,Other,10.0,0.4,1.6,1.5
+07/08/2020,Utah,Other,,,3.1,2.3
+07/08/2020,Virginia,Other,,,2.7,3.2
+07/08/2020,Washington,Other,20.0,1.8,4.8,4.5
+07/08/2020,Wisconsin,Other,,,1.7,2.2
