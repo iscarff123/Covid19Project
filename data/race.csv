@@ -1,177 +1,193 @@
 Data as of,State,Indicator,Non-Hispanic White,Non-Hispanic Black or African American,Non-Hispanic American Indian or Alaska Native,Non-Hispanic Asian,Hispanic or Latino,Other,Footnote
-07/08/2020,United States,Count of COVID-19 deaths,60862,26426,888,5629,19409,1527,
-07/08/2020,United States,Distribution of COVID-19 deaths (%),53,23,0.8,4.9,16.9,1.3,
-07/08/2020,United States,Unweighted distribution of population (%),60.4,12.5,0.7,5.7,18.3,2.4,
-07/08/2020,United States,Weighted distribution of population (%),42.1,17,0.3,10.6,28.1,1.9,
-07/08/2020,Alabama,Count of COVID-19 deaths,479,460,,,21,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Alabama,Distribution of COVID-19 deaths (%),49.4,47.4,,,2.2,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Alabama,Unweighted distribution of population (%),65.4,26.5,0.6,1.5,4.4,1.6,
-07/08/2020,Alabama,Weighted distribution of population (%),53.1,39.4,0.4,2,3.7,1.3,
-07/08/2020,Arizona,Count of COVID-19 deaths,650,47,299,17,367,31,
-07/08/2020,Arizona,Distribution of COVID-19 deaths (%),46.1,3.3,21.2,1.2,26,2.2,
-07/08/2020,Arizona,Unweighted distribution of population (%),54.4,4.4,4,3.4,31.6,2.2,
-07/08/2020,Arizona,Weighted distribution of population (%),54.7,5.2,1.9,4.2,31.9,2.2,
-07/08/2020,Arkansas,Count of COVID-19 deaths,147,59,0,,19,32,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Arkansas,Distribution of COVID-19 deaths (%),57,22.9,0,,7.4,12.4,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Arkansas,Unweighted distribution of population (%),72.2,15.4,0.8,1.6,7.7,2.3,
-07/08/2020,Arkansas,Weighted distribution of population (%),59.6,25.9,0.6,2.5,9.3,2.1,
-07/08/2020,California,Count of COVID-19 deaths,1723,496,16,812,2335,54,
-07/08/2020,California,Distribution of COVID-19 deaths (%),31.7,9.1,0.3,14.9,43,1,
-07/08/2020,California,Unweighted distribution of population (%),36.8,5.6,0.4,14.7,39.3,3.1,
-07/08/2020,California,Weighted distribution of population (%),28.1,7.5,0.2,14.8,47.2,2.2,
-07/08/2020,Colorado,Count of COVID-19 deaths,967,120,10,57,369,21,
-07/08/2020,Colorado,Distribution of COVID-19 deaths (%),62.6,7.8,0.6,3.7,23.9,1.4,
-07/08/2020,Colorado,Unweighted distribution of population (%),67.9,4,0.6,3.3,21.7,2.4,
-07/08/2020,Colorado,Weighted distribution of population (%),62.3,6.4,0.5,4.3,24,2.5,
-07/08/2020,Connecticut,Count of COVID-19 deaths,2670,558,,45,341,20,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Connecticut,Distribution of COVID-19 deaths (%),73.4,15.3,,1.2,9.4,0.6,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Connecticut,Unweighted distribution of population (%),66.5,10.2,0.2,4.7,16.5,1.8,
-07/08/2020,Connecticut,Weighted distribution of population (%),61.9,12.1,0.2,5.3,18.9,1.7,
-07/08/2020,Delaware,Count of COVID-19 deaths,342,116,,0,23,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Delaware,Distribution of COVID-19 deaths (%),70.5,23.9,,0,4.7,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Delaware,Unweighted distribution of population (%),61.9,21.9,0.3,4,9.5,2.3,
-07/08/2020,Delaware,Weighted distribution of population (%),60.9,22.3,0.3,4.5,9.8,2.2,
-07/08/2020,District of Columbia,Count of COVID-19 deaths,67,408,,10,74,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,District of Columbia,Distribution of COVID-19 deaths (%),11.9,72.6,,1.8,13.2,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,District of Columbia,Unweighted distribution of population (%),37.1,44.9,0.2,4.3,11.3,2.3,
-07/08/2020,District of Columbia,Weighted distribution of population (%),37.1,44.9,0.2,4.3,11.3,2.2,
-07/08/2020,Florida,Count of COVID-19 deaths,1555,682,,57,809,10,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Florida,Distribution of COVID-19 deaths (%),49.9,21.9,,1.8,26,0.3,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Florida,Unweighted distribution of population (%),53.5,15.5,0.3,2.8,26.1,1.7,
-07/08/2020,Florida,Weighted distribution of population (%),31.8,17.8,0.1,2.4,46.6,1.2,
-07/08/2020,Georgia,Count of COVID-19 deaths,1007,990,0,33,103,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Georgia,Distribution of COVID-19 deaths (%),47,46.2,0,1.5,4.8,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Georgia,Unweighted distribution of population (%),52.4,31.5,0.2,4.2,9.8,1.9,
-07/08/2020,Georgia,Weighted distribution of population (%),42,38.4,0.2,6.7,10.8,2,
-07/08/2020,Illinois,Count of COVID-19 deaths,2774,1652,10,309,1328,36,
-07/08/2020,Illinois,Distribution of COVID-19 deaths (%),45.4,27,0.2,5.1,21.7,0.6,
-07/08/2020,Illinois,Unweighted distribution of population (%),61,14.1,0.2,5.7,17.4,1.7,
-07/08/2020,Illinois,Weighted distribution of population (%),43.1,22.3,0.1,7.7,25.2,1.5,
-07/08/2020,Indiana,Count of COVID-19 deaths,1835,487,,23,95,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Indiana,Distribution of COVID-19 deaths (%),75,19.9,,0.9,3.9,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Indiana,Unweighted distribution of population (%),78.9,9.5,0.2,2.4,7.1,1.9,
-07/08/2020,Indiana,Weighted distribution of population (%),59.6,23.6,0.2,3.3,10.9,2.4,
-07/08/2020,Iowa,Count of COVID-19 deaths,552,41,13,26,54,13,
-07/08/2020,Iowa,Distribution of COVID-19 deaths (%),79,5.9,1.9,3.7,7.7,1.9,
-07/08/2020,Iowa,Unweighted distribution of population (%),85.3,3.8,0.3,2.7,6.2,1.8,
-07/08/2020,Iowa,Weighted distribution of population (%),78.9,6.4,0.3,4.4,7.9,2.2,
-07/08/2020,Kansas,Count of COVID-19 deaths,149,52,,,40,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Kansas,Distribution of COVID-19 deaths (%),58.9,20.6,,,15.8,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Kansas,Unweighted distribution of population (%),75.7,5.7,0.8,3.1,12.1,2.7,
-07/08/2020,Kansas,Weighted distribution of population (%),70.7,8.2,0.5,4.8,13.3,2.6,
-07/08/2020,Kentucky,Count of COVID-19 deaths,412,90,0,11,18,0,
-07/08/2020,Kentucky,Distribution of COVID-19 deaths (%),77.6,16.9,0,2.1,3.4,0,
-07/08/2020,Kentucky,Unweighted distribution of population (%),84.3,8.2,0.2,1.6,3.8,1.9,
-07/08/2020,Kentucky,Weighted distribution of population (%),69.2,19.8,0.1,3,5.6,2.3,
-07/08/2020,Louisiana,Count of COVID-19 deaths,1165,1439,,18,66,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Louisiana,Distribution of COVID-19 deaths (%),43.1,53.3,,0.7,2.4,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Louisiana,Unweighted distribution of population (%),58.6,32.3,0.6,1.8,5.2,1.5,
-07/08/2020,Louisiana,Weighted distribution of population (%),49,38,0.4,3,8.1,1.4,
-07/08/2020,Maine,Count of COVID-19 deaths,104,,0,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Maine,Distribution of COVID-19 deaths (%),95.4,,0,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Maine,Unweighted distribution of population (%),93.1,1.5,0.7,1.2,1.7,1.7,
-07/08/2020,Maine,Weighted distribution of population (%),91,2.7,0.3,2,2.1,1.9,
-07/08/2020,Maryland,Count of COVID-19 deaths,1428,1360,,138,362,17,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Maryland,Distribution of COVID-19 deaths (%),43.2,41.1,,4.2,10.9,0.5,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Maryland,Unweighted distribution of population (%),50.5,29.8,0.2,6.6,10.4,2.5,
-07/08/2020,Maryland,Weighted distribution of population (%),41,33.1,0.2,9.1,14.2,2.4,
-07/08/2020,Massachusetts,Count of COVID-19 deaths,5849,629,,225,489,85,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Massachusetts,Distribution of COVID-19 deaths (%),80.3,8.6,,3.1,6.7,1.2,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Massachusetts,Unweighted distribution of population (%),71.4,7.2,0.2,7,12.3,1.9,
-07/08/2020,Massachusetts,Weighted distribution of population (%),68.9,7.6,0.1,8.9,12.7,1.9,
-07/08/2020,Michigan,Count of COVID-19 deaths,2798,2195,,60,125,83,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Michigan,Distribution of COVID-19 deaths (%),53.1,41.7,,1.1,2.4,1.6,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Michigan,Unweighted distribution of population (%),74.9,13.8,0.6,3.3,5.2,2.3,
-07/08/2020,Michigan,Weighted distribution of population (%),59.3,28.2,0.3,4.7,5.3,2.3,
-07/08/2020,Minnesota,Count of COVID-19 deaths,1108,113,20,49,54,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Minnesota,Distribution of COVID-19 deaths (%),82.1,8.4,1.5,3.6,4,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Minnesota,Unweighted distribution of population (%),79.5,6.6,1.1,5.1,5.5,2.3,
-07/08/2020,Minnesota,Weighted distribution of population (%),68.7,12.6,0.7,8.3,6.9,2.9,
-07/08/2020,Mississippi,Count of COVID-19 deaths,403,473,63,,10,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Mississippi,Distribution of COVID-19 deaths (%),42.3,49.6,6.6,,1,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Mississippi,Unweighted distribution of population (%),56.5,37.4,0.5,1,3.4,1.2,
-07/08/2020,Mississippi,Weighted distribution of population (%),42.8,52.4,0.2,1,2.6,1,
-07/08/2020,Missouri,Count of COVID-19 deaths,539,315,,14,17,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Missouri,Distribution of COVID-19 deaths (%),60.6,35.4,,1.6,1.9,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Missouri,Unweighted distribution of population (%),79.3,11.6,0.4,2.1,4.3,2.3,
-07/08/2020,Missouri,Weighted distribution of population (%),65.5,24.6,0.2,4.1,3.5,2.1,
-07/08/2020,Nebraska,Count of COVID-19 deaths,155,14,,10,60,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Nebraska,Distribution of COVID-19 deaths (%),64.3,5.8,,4.1,24.9,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Nebraska,Unweighted distribution of population (%),78.6,4.8,0.8,2.6,11.2,2,
-07/08/2020,Nebraska,Weighted distribution of population (%),71,9.6,0.5,4,12.6,2.3,
-07/08/2020,Nevada,Count of COVID-19 deaths,215,69,,69,100,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Nevada,Distribution of COVID-19 deaths (%),46.4,14.9,,14.9,21.6,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Nevada,Unweighted distribution of population (%),48.7,9.1,0.9,8.3,29,4.1,
-07/08/2020,Nevada,Weighted distribution of population (%),43.3,11.4,0.5,9.7,31.4,3.7,
-07/08/2020,New Hampshire,Count of COVID-19 deaths,323,,0,,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,New Hampshire,Distribution of COVID-19 deaths (%),93.4,,0,,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,New Hampshire,Unweighted distribution of population (%),90,1.4,0.2,2.9,3.9,1.6,
-07/08/2020,New Hampshire,Weighted distribution of population (%),85.7,2.2,0.2,4,6.2,1.7,
-07/08/2020,New Jersey,Count of COVID-19 deaths,7075,2355,10,813,2728,47,
-07/08/2020,New Jersey,Distribution of COVID-19 deaths (%),54.3,18.1,0.1,6.2,20.9,0.4,
-07/08/2020,New Jersey,Unweighted distribution of population (%),54.9,12.9,0.1,9.8,20.6,1.6,
-07/08/2020,New Jersey,Weighted distribution of population (%),49.2,14.5,0.1,11.8,22.9,1.5,
-07/08/2020,New Mexico,Count of COVID-19 deaths,118,,238,,52,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,New Mexico,Distribution of COVID-19 deaths (%),28.5,,57.5,,12.6,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,New Mexico,Unweighted distribution of population (%),37.1,1.8,8.8,1.5,49.1,1.6,
-07/08/2020,New Mexico,Weighted distribution of population (%),37.8,2.2,10.2,2.2,45.8,1.8,
-07/08/2020,New York<sup>5</sup>,Count of COVID-19 deaths,6698,1669,18,403,1634,68,
-07/08/2020,New York<sup>5</sup>,Distribution of COVID-19 deaths (%),63.9,15.9,0.2,3.8,15.6,0.6,
-07/08/2020,New York<sup>5</sup>,Unweighted distribution of population (%),73,8.8,0.3,4.3,11.7,1.8,
-07/08/2020,New York<sup>5</sup>,Weighted distribution of population (%),62.8,10.6,0.2,6.7,18.3,1.5,
-07/08/2020,New York City,Count of COVID-19 deaths,5145,5625,,1823,5681,868,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,New York City,Distribution of COVID-19 deaths (%),26.9,29.4,,9.5,29.7,4.5,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,New York City,Unweighted distribution of population (%),32.1,22,0.2,14.7,29.2,1.8,
-07/08/2020,New York City,Weighted distribution of population (%),30.8,23.3,0.2,15.4,28.5,1.8,
-07/08/2020,North Carolina,Count of COVID-19 deaths,502,308,,13,48,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,North Carolina,Distribution of COVID-19 deaths (%),57.1,35,,1.5,5.5,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,North Carolina,Unweighted distribution of population (%),62.8,21.4,1.1,3.1,9.6,2,
-07/08/2020,North Carolina,Weighted distribution of population (%),54.7,26.4,0.7,5,11.1,2.1,
-07/08/2020,Ohio,Count of COVID-19 deaths,1834,429,,29,37,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Ohio,Distribution of COVID-19 deaths (%),78.5,18.4,,1.2,1.6,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Ohio,Unweighted distribution of population (%),78.7,12.6,0.2,2.4,3.9,2.2,
-07/08/2020,Ohio,Weighted distribution of population (%),65.7,22.6,0.2,3.7,5.4,2.5,
-07/08/2020,Oklahoma,Count of COVID-19 deaths,272,34,38,,15,10,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Oklahoma,Distribution of COVID-19 deaths (%),73.1,9.1,10.2,,4,2.7,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Oklahoma,Unweighted distribution of population (%),65.3,7.4,8.3,2.3,10.9,5.8,
-07/08/2020,Oklahoma,Weighted distribution of population (%),59.8,12.1,4.8,3.5,14.7,5.1,
-07/08/2020,Oregon,Count of COVID-19 deaths,155,,,,25,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Oregon,Distribution of COVID-19 deaths (%),76.7,,,,12.4,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Oregon,Unweighted distribution of population (%),75.3,2,1.1,4.7,13.3,3.7,
-07/08/2020,Oregon,Weighted distribution of population (%),69.9,4.1,0.7,7.4,14.1,3.7,
-07/08/2020,Pennsylvania,Count of COVID-19 deaths,4640,1450,,163,400,18,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Pennsylvania,Distribution of COVID-19 deaths (%),69.5,21.7,,2.4,6,0.3,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Pennsylvania,Unweighted distribution of population (%),76.1,10.8,0.1,3.6,7.6,1.7,
-07/08/2020,Pennsylvania,Weighted distribution of population (%),57.4,23.2,0.2,6.3,11.1,1.9,
-07/08/2020,Rhode Island,Count of COVID-19 deaths,712,50,,13,63,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Rhode Island,Distribution of COVID-19 deaths (%),84.4,5.9,,1.5,7.5,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Rhode Island,Unweighted distribution of population (%),72,6,0.4,3.5,15.9,2.2,
-07/08/2020,Rhode Island,Weighted distribution of population (%),62.3,8.3,0.4,4.2,22.5,2.2,
-07/08/2020,South Carolina,Count of COVID-19 deaths,318,326,,,15,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,South Carolina,Distribution of COVID-19 deaths (%),47.7,48.9,,,2.2,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,South Carolina,Unweighted distribution of population (%),63.7,26.6,0.4,1.7,5.8,1.8,
-07/08/2020,South Carolina,Weighted distribution of population (%),60.2,29.4,0.3,2.2,6.2,1.8,
-07/08/2020,Tennessee,Count of COVID-19 deaths,271,172,,12,44,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Tennessee,Distribution of COVID-19 deaths (%),53.8,34.1,,2.4,8.7,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Tennessee,Unweighted distribution of population (%),73.7,16.7,0.3,1.8,5.6,1.8,
-07/08/2020,Tennessee,Weighted distribution of population (%),49.4,38.1,0.2,2.9,7.6,1.7,
-07/08/2020,Texas,Count of COVID-19 deaths,947,469,,77,898,10,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Texas,Distribution of COVID-19 deaths (%),39.3,19.5,,3.2,37.3,0.4,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Texas,Unweighted distribution of population (%),41.5,12,0.3,5,39.6,1.6,
-07/08/2020,Texas,Weighted distribution of population (%),32.7,16.9,0.2,6.5,42.2,1.5,
-07/08/2020,Utah,Count of COVID-19 deaths,92,,11,,40,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Utah,Distribution of COVID-19 deaths (%),57.5,,6.9,,25,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Utah,Unweighted distribution of population (%),78,1.1,0.9,2.6,14.2,3.1,
-07/08/2020,Utah,Weighted distribution of population (%),73,1.6,0.7,4.2,18.1,2.3,
-07/08/2020,Virginia,Count of COVID-19 deaths,1048,430,,113,205,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Virginia,Distribution of COVID-19 deaths (%),58.1,23.8,,6.3,11.4,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Virginia,Unweighted distribution of population (%),61.5,19.1,0.3,6.8,9.6,2.7,
-07/08/2020,Virginia,Weighted distribution of population (%),51.8,13.6,0.2,16.2,15.1,3.2,
-07/08/2020,Washington,Count of COVID-19 deaths,799,42,17,102,134,20,
-07/08/2020,Washington,Distribution of COVID-19 deaths (%),71.7,3.8,1.5,9.2,12,1.8,
-07/08/2020,Washington,Unweighted distribution of population (%),68,3.9,1.3,9.1,12.9,4.8,
-07/08/2020,Washington,Weighted distribution of population (%),60.9,6.1,0.7,16.9,10.8,4.5,
-07/08/2020,Wisconsin,Count of COVID-19 deaths,444,175,,20,81,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Wisconsin,Distribution of COVID-19 deaths (%),61.1,24.1,,2.8,11.1,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
-07/08/2020,Wisconsin,Unweighted distribution of population (%),81.1,6.4,0.9,3,6.9,1.7,
-07/08/2020,Wisconsin,Weighted distribution of population (%),57.1,21.8,0.6,4.4,13.8,2.2,
+07/22/2020,United States,Count of COVID-19 deaths,68377,29476,1143,6305,23256,1693,
+07/22/2020,United States,Distribution of COVID-19 deaths (%),52.5,22.6,0.9,4.8,17.9,1.3,
+07/22/2020,United States,Unweighted distribution of population (%),60.4,12.5,0.7,5.7,18.3,2.4,
+07/22/2020,United States,Weighted distribution of population (%),41.8,16.6,0.3,10.5,28.9,1.9,
+07/22/2020,Alabama,Count of COVID-19 deaths,641,577,,,35,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Alabama,Distribution of COVID-19 deaths (%),50.7,45.6,,,2.8,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Alabama,Unweighted distribution of population (%),65.4,26.5,0.6,1.5,4.4,1.6,
+07/22/2020,Alabama,Weighted distribution of population (%),53.2,39.2,0.4,2,3.8,1.4,
+07/22/2020,Arizona,Count of COVID-19 deaths,1101,84,413,38,754,53,
+07/22/2020,Arizona,Distribution of COVID-19 deaths (%),45.1,3.4,16.9,1.6,30.9,2.2,
+07/22/2020,Arizona,Unweighted distribution of population (%),54.4,4.4,4,3.4,31.6,2.2,
+07/22/2020,Arizona,Weighted distribution of population (%),54.7,5.3,1.8,4.2,31.8,2.2,
+07/22/2020,Arkansas,Count of COVID-19 deaths,206,81,,,31,40,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Arkansas,Distribution of COVID-19 deaths (%),56.9,22.4,,,8.6,11,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Arkansas,Unweighted distribution of population (%),72.2,15.4,0.8,1.6,7.7,2.3,
+07/22/2020,Arkansas,Weighted distribution of population (%),60.8,24,0.7,2.5,9.9,2.1,
+07/22/2020,California,Count of COVID-19 deaths,2175,587,19,994,3247,78,
+07/22/2020,California,Distribution of COVID-19 deaths (%),30.6,8.3,0.3,14,45.7,1.1,
+07/22/2020,California,Unweighted distribution of population (%),36.8,5.6,0.4,14.7,39.3,3.1,
+07/22/2020,California,Weighted distribution of population (%),28.2,7.5,0.2,14.7,47.1,2.2,
+07/22/2020,Colorado,Count of COVID-19 deaths,1019,125,13,60,404,22,
+07/22/2020,Colorado,Distribution of COVID-19 deaths (%),62,7.6,0.8,3.7,24.6,1.3,
+07/22/2020,Colorado,Unweighted distribution of population (%),67.9,4,0.6,3.3,21.7,2.4,
+07/22/2020,Colorado,Weighted distribution of population (%),62.3,6.4,0.5,4.3,24,2.5,
+07/22/2020,Connecticut,Count of COVID-19 deaths,2955,620,,53,378,23,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Connecticut,Distribution of COVID-19 deaths (%),73.3,15.4,,1.3,9.4,0.6,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Connecticut,Unweighted distribution of population (%),66.5,10.2,0.2,4.7,16.5,1.8,
+07/22/2020,Connecticut,Weighted distribution of population (%),61.9,12.1,0.2,5.3,18.9,1.7,
+07/22/2020,Delaware,Count of COVID-19 deaths,363,125,,,24,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Delaware,Distribution of COVID-19 deaths (%),70.2,24.2,,,4.6,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Delaware,Unweighted distribution of population (%),61.9,21.9,0.3,4,9.5,2.3,
+07/22/2020,Delaware,Weighted distribution of population (%),60.8,22.3,0.3,4.5,9.8,2.2,
+07/22/2020,District of Columbia,Count of COVID-19 deaths,74,465,,11,91,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,District of Columbia,Distribution of COVID-19 deaths (%),11.5,72.2,,1.7,14.1,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,District of Columbia,Unweighted distribution of population (%),37.1,44.9,0.2,4.3,11.3,2.3,
+07/22/2020,District of Columbia,Weighted distribution of population (%),37.1,44.9,0.2,4.3,11.3,2.2,
+07/22/2020,Florida,Count of COVID-19 deaths,2139,920,,70,1195,12,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Florida,Distribution of COVID-19 deaths (%),49.3,21.2,,1.6,27.5,0.3,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Florida,Unweighted distribution of population (%),53.5,15.5,0.3,2.8,26.1,1.7,
+07/22/2020,Florida,Weighted distribution of population (%),33.2,17.6,0.1,2.5,45.3,1.2,
+07/22/2020,Georgia,Count of COVID-19 deaths,1198,1154,,41,144,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Georgia,Distribution of COVID-19 deaths (%),47,45.3,,1.6,5.7,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Georgia,Unweighted distribution of population (%),52.4,31.5,0.2,4.2,9.8,1.9,
+07/22/2020,Georgia,Weighted distribution of population (%),42,38.4,0.2,6.6,10.8,2,
+07/22/2020,Idaho,Count of COVID-19 deaths,99,,,,11,0,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Idaho,Distribution of COVID-19 deaths (%),86.8,,,,9.6,0,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Idaho,Unweighted distribution of population (%),81.7,0.7,1.1,1.5,12.7,2.2,
+07/22/2020,Idaho,Weighted distribution of population (%),82.7,1.1,0.7,2.4,10.8,2.4,
+07/22/2020,Illinois,Count of COVID-19 deaths,3006,1799,10,333,1454,50,
+07/22/2020,Illinois,Distribution of COVID-19 deaths (%),45.2,27,0.2,5,21.9,0.8,
+07/22/2020,Illinois,Unweighted distribution of population (%),61,14.1,0.2,5.7,17.4,1.7,
+07/22/2020,Illinois,Weighted distribution of population (%),43.1,22.3,0.1,7.7,25.2,1.5,
+07/22/2020,Indiana,Count of COVID-19 deaths,2050,534,,30,111,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Indiana,Distribution of COVID-19 deaths (%),75,19.5,,1.1,4.1,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Indiana,Unweighted distribution of population (%),78.9,9.5,0.2,2.4,7.1,1.9,
+07/22/2020,Indiana,Weighted distribution of population (%),59.9,23.3,0.2,3.3,11,2.4,
+07/22/2020,Iowa,Count of COVID-19 deaths,630,46,14,29,60,15,
+07/22/2020,Iowa,Distribution of COVID-19 deaths (%),79.3,5.8,1.8,3.7,7.6,1.9,
+07/22/2020,Iowa,Unweighted distribution of population (%),85.3,3.8,0.3,2.7,6.2,1.8,
+07/22/2020,Iowa,Weighted distribution of population (%),78.9,6.4,0.3,4.4,7.9,2.2,
+07/22/2020,Kansas,Count of COVID-19 deaths,196,60,,,44,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Kansas,Distribution of COVID-19 deaths (%),62.2,19,,,14,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Kansas,Unweighted distribution of population (%),75.7,5.7,0.8,3.1,12.1,2.7,
+07/22/2020,Kansas,Weighted distribution of population (%),70.8,8.2,0.5,4.8,13.2,2.6,
+07/22/2020,Kentucky,Count of COVID-19 deaths,521,101,0,13,21,0,
+07/22/2020,Kentucky,Distribution of COVID-19 deaths (%),79.4,15.4,0,2,3.2,0,
+07/22/2020,Kentucky,Unweighted distribution of population (%),84.3,8.2,0.2,1.6,3.8,1.9,
+07/22/2020,Kentucky,Weighted distribution of population (%),69.3,19.7,0.2,3,5.6,2.3,
+07/22/2020,Louisiana,Count of COVID-19 deaths,1350,1626,11,21,77,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Louisiana,Distribution of COVID-19 deaths (%),43.7,52.6,0.4,0.7,2.5,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Louisiana,Unweighted distribution of population (%),58.6,32.3,0.6,1.8,5.2,1.5,
+07/22/2020,Louisiana,Weighted distribution of population (%),49.3,38,0.4,3,7.9,1.4,
+07/22/2020,Maine,Count of COVID-19 deaths,124,,0,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Maine,Distribution of COVID-19 deaths (%),95.4,,0,0,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Maine,Unweighted distribution of population (%),93.1,1.5,0.7,1.2,1.7,1.7,
+07/22/2020,Maine,Weighted distribution of population (%),91,2.7,0.3,2,2.1,1.9,
+07/22/2020,Maryland,Count of COVID-19 deaths,1553,1490,,146,411,18,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Maryland,Distribution of COVID-19 deaths (%),42.9,41.1,,4,11.3,0.5,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Maryland,Unweighted distribution of population (%),50.5,29.8,0.2,6.6,10.4,2.5,
+07/22/2020,Maryland,Weighted distribution of population (%),41.1,33.2,0.2,9.1,14.1,2.4,
+07/22/2020,Massachusetts,Count of COVID-19 deaths,6246,661,,234,519,88,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Massachusetts,Distribution of COVID-19 deaths (%),80.6,8.5,,3,6.7,1.1,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Massachusetts,Unweighted distribution of population (%),71.4,7.2,0.2,7,12.3,1.9,
+07/22/2020,Massachusetts,Weighted distribution of population (%),68.9,7.6,0.2,8.9,12.6,1.9,
+07/22/2020,Michigan,Count of COVID-19 deaths,2967,2327,,63,138,93,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Michigan,Distribution of COVID-19 deaths (%),53,41.6,,1.1,2.5,1.7,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Michigan,Unweighted distribution of population (%),74.9,13.8,0.6,3.3,5.2,2.3,
+07/22/2020,Michigan,Weighted distribution of population (%),59.2,28.2,0.3,4.7,5.3,2.3,
+07/22/2020,Minnesota,Count of COVID-19 deaths,1198,134,23,62,61,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Minnesota,Distribution of COVID-19 deaths (%),80.7,9,1.5,4.2,4.1,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Minnesota,Unweighted distribution of population (%),79.5,6.6,1.1,5.1,5.5,2.3,
+07/22/2020,Minnesota,Weighted distribution of population (%),68.6,12.6,0.7,8.3,6.9,2.9,
+07/22/2020,Mississippi,Count of COVID-19 deaths,508,608,69,,17,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Mississippi,Distribution of COVID-19 deaths (%),42.1,50.4,5.7,,1.4,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Mississippi,Unweighted distribution of population (%),56.5,37.4,0.5,1,3.4,1.2,
+07/22/2020,Mississippi,Weighted distribution of population (%),43.2,52,0.2,1,2.6,1.1,
+07/22/2020,Missouri,Count of COVID-19 deaths,621,350,,15,23,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Missouri,Distribution of COVID-19 deaths (%),61.1,34.4,,1.5,2.3,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Missouri,Unweighted distribution of population (%),79.3,11.6,0.4,2.1,4.3,2.3,
+07/22/2020,Missouri,Weighted distribution of population (%),65.6,24.5,0.2,4.1,3.5,2.1,
+07/22/2020,Nebraska,Count of COVID-19 deaths,184,18,,12,70,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Nebraska,Distribution of COVID-19 deaths (%),64.3,6.3,,4.2,24.5,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Nebraska,Unweighted distribution of population (%),78.6,4.8,0.8,2.6,11.2,2,
+07/22/2020,Nebraska,Weighted distribution of population (%),70.8,9.8,0.5,4,12.6,2.3,
+07/22/2020,Nevada,Count of COVID-19 deaths,262,86,,80,137,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Nevada,Distribution of COVID-19 deaths (%),45.4,14.9,,13.9,23.7,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Nevada,Unweighted distribution of population (%),48.7,9.1,0.9,8.3,29,4.1,
+07/22/2020,Nevada,Weighted distribution of population (%),43.3,11.4,0.5,9.7,31.4,3.7,
+07/22/2020,New Hampshire,Count of COVID-19 deaths,358,,0,,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,New Hampshire,Distribution of COVID-19 deaths (%),93.5,,0,,,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,New Hampshire,Unweighted distribution of population (%),90,1.4,0.2,2.9,3.9,1.6,
+07/22/2020,New Hampshire,Weighted distribution of population (%),85.7,2.2,0.2,4,6.2,1.7,
+07/22/2020,New Jersey,Count of COVID-19 deaths,7508,2493,10,848,2901,51,
+07/22/2020,New Jersey,Distribution of COVID-19 deaths (%),54.4,18.1,0.1,6.1,21,0.4,
+07/22/2020,New Jersey,Unweighted distribution of population (%),54.9,12.9,0.1,9.8,20.6,1.6,
+07/22/2020,New Jersey,Weighted distribution of population (%),49.3,14.5,0.1,11.7,22.8,1.5,
+07/22/2020,New Mexico,Count of COVID-19 deaths,135,,308,,66,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,New Mexico,Distribution of COVID-19 deaths (%),26.2,,59.7,,12.8,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,New Mexico,Unweighted distribution of population (%),37.1,1.8,8.8,1.5,49.1,1.6,
+07/22/2020,New Mexico,Weighted distribution of population (%),37.8,2.2,9.8,2.2,46.2,1.8,
+07/22/2020,New York,Count of COVID-19 deaths,7162,1784,19,453,1750,74,
+07/22/2020,New York,Distribution of COVID-19 deaths (%),63.7,15.9,0.2,4,15.6,0.7,
+07/22/2020,New York,Unweighted distribution of population (%),73,8.8,0.3,4.3,11.7,1.8,
+07/22/2020,New York,Weighted distribution of population (%),62.8,10.6,0.2,6.7,18.3,1.5,
+07/22/2020,New York City,Count of COVID-19 deaths,5470,5989,,1978,6117,902,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,New York City,Distribution of COVID-19 deaths (%),26.7,29.3,,9.7,29.9,4.4,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,New York City,Unweighted distribution of population (%),32.1,22,0.2,14.7,29.2,1.8,
+07/22/2020,New York City,Weighted distribution of population (%),30.9,23.3,0.2,15.4,28.4,1.8,
+07/22/2020,North Carolina,Count of COVID-19 deaths,669,417,12,23,95,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,North Carolina,Distribution of COVID-19 deaths (%),54.7,34.1,1,1.9,7.8,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,North Carolina,Unweighted distribution of population (%),62.8,21.4,1.1,3.1,9.6,2,
+07/22/2020,North Carolina,Weighted distribution of population (%),54,27,0.7,5,11.1,2.1,
+07/22/2020,North Dakota,Count of COVID-19 deaths,84,,13,,,0,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,North Dakota,Distribution of COVID-19 deaths (%),80.8,,12.5,,,0,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,North Dakota,Unweighted distribution of population (%),84,3.2,5.1,1.7,3.9,2.1,
+07/22/2020,North Dakota,Weighted distribution of population (%),84.3,6.1,1.3,3.5,2.8,1.9,
+07/22/2020,Ohio,Count of COVID-19 deaths,2096,512,,38,51,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Ohio,Distribution of COVID-19 deaths (%),77.5,18.9,,1.4,1.9,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Ohio,Unweighted distribution of population (%),78.7,12.6,0.2,2.4,3.9,2.2,
+07/22/2020,Ohio,Weighted distribution of population (%),65.4,22.8,0.2,3.8,5.4,2.5,
+07/22/2020,Oklahoma,Count of COVID-19 deaths,303,38,40,,26,10,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Oklahoma,Distribution of COVID-19 deaths (%),72,9,9.5,,6.2,2.4,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Oklahoma,Unweighted distribution of population (%),65.3,7.4,8.3,2.3,10.9,5.8,
+07/22/2020,Oklahoma,Weighted distribution of population (%),59.6,12.2,4.8,3.5,14.8,5.1,
+07/22/2020,Oregon,Count of COVID-19 deaths,193,,,12,36,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Oregon,Distribution of COVID-19 deaths (%),75.1,,,4.7,14,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Oregon,Unweighted distribution of population (%),75.3,2,1.1,4.7,13.3,3.7,
+07/22/2020,Oregon,Weighted distribution of population (%),70.2,4,0.8,7.2,14.1,3.7,
+07/22/2020,Pennsylvania,Count of COVID-19 deaths,5058,1542,,169,436,20,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Pennsylvania,Distribution of COVID-19 deaths (%),70,21.3,,2.3,6,0.3,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Pennsylvania,Unweighted distribution of population (%),76.1,10.8,0.1,3.6,7.6,1.7,
+07/22/2020,Pennsylvania,Weighted distribution of population (%),57.6,23,0.2,6.3,11.1,1.9,
+07/22/2020,Rhode Island,Count of COVID-19 deaths,794,54,,16,70,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Rhode Island,Distribution of COVID-19 deaths (%),84.5,5.7,,1.7,7.4,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Rhode Island,Unweighted distribution of population (%),72,6,0.4,3.5,15.9,2.2,
+07/22/2020,Rhode Island,Weighted distribution of population (%),62.2,8.3,0.4,4.2,22.6,2.2,
+07/22/2020,South Carolina,Count of COVID-19 deaths,483,440,,,33,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,South Carolina,Distribution of COVID-19 deaths (%),49.9,45.5,,,3.4,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,South Carolina,Unweighted distribution of population (%),63.7,26.6,0.4,1.7,5.8,1.8,
+07/22/2020,South Carolina,Weighted distribution of population (%),61.8,27.7,0.3,2.2,6.3,1.8,
+07/22/2020,South Dakota,Count of COVID-19 deaths,79,,24,,,0,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,South Dakota,Distribution of COVID-19 deaths (%),68.1,,20.7,,,0,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,South Dakota,Unweighted distribution of population (%),82.7,2.3,6.9,1.7,4.1,2.2,
+07/22/2020,South Dakota,Weighted distribution of population (%),81.3,5.7,3.3,2.3,5.1,2.4,
+07/22/2020,Tennessee,Count of COVID-19 deaths,363,227,,15,62,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Tennessee,Distribution of COVID-19 deaths (%),54,33.8,,2.2,9.2,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Tennessee,Unweighted distribution of population (%),73.7,16.7,0.3,1.8,5.6,1.8,
+07/22/2020,Tennessee,Weighted distribution of population (%),49.6,37.9,0.2,3,7.6,1.7,
+07/22/2020,Texas,Count of COVID-19 deaths,1371,627,,115,1571,14,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Texas,Distribution of COVID-19 deaths (%),37,16.9,,3.1,42.4,0.4,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Texas,Unweighted distribution of population (%),41.5,12,0.3,5,39.6,1.6,
+07/22/2020,Texas,Weighted distribution of population (%),31.8,16.7,0.2,6.4,43.4,1.5,
+07/22/2020,Utah,Count of COVID-19 deaths,124,,18,10,53,12,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Utah,Distribution of COVID-19 deaths (%),56.6,,8.2,4.6,24.2,5.5,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Utah,Unweighted distribution of population (%),78,1.1,0.9,2.6,14.2,3.1,
+07/22/2020,Utah,Weighted distribution of population (%),73.1,1.6,0.7,4.2,18.1,2.3,
+07/22/2020,Virginia,Count of COVID-19 deaths,1188,504,,122,246,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Virginia,Distribution of COVID-19 deaths (%),57.4,24.4,,5.9,11.9,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Virginia,Unweighted distribution of population (%),61.5,19.1,0.3,6.8,9.6,2.7,
+07/22/2020,Virginia,Weighted distribution of population (%),51.9,13.8,0.2,16,15,3.2,
+07/22/2020,Washington,Count of COVID-19 deaths,861,44,27,111,168,24,
+07/22/2020,Washington,Distribution of COVID-19 deaths (%),69.7,3.6,2.2,9,13.6,1.9,
+07/22/2020,Washington,Unweighted distribution of population (%),68,3.9,1.3,9.1,12.9,4.8,
+07/22/2020,Washington,Weighted distribution of population (%),60.9,6.1,0.8,16.8,11,4.5,
+07/22/2020,West Virginia,Count of COVID-19 deaths,96,,0,,0,0,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,West Virginia,Distribution of COVID-19 deaths (%),93.2,,0,,0,0,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,West Virginia,Unweighted distribution of population (%),92.1,3.5,0.2,0.8,1.7,1.7,
+07/22/2020,West Virginia,Weighted distribution of population (%),88.6,5.9,0.2,1.3,1.7,2.3,
+07/22/2020,Wisconsin,Count of COVID-19 deaths,505,194,,25,94,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Wisconsin,Distribution of COVID-19 deaths (%),61.2,23.5,,3,11.4,,One or more data cells have counts between 1–9 and have been suppressed in accordance with NCHS confidentiality standards.
+07/22/2020,Wisconsin,Unweighted distribution of population (%),81.1,6.4,0.9,3,6.9,1.7,
+07/22/2020,Wisconsin,Weighted distribution of population (%),57.2,21.8,0.6,4.4,13.8,2.2,
