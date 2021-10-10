@@ -1,3 +1,8 @@
+# Covid-19 Dashboard Project
+### Time of Project: Summer 2020
+### Practicum Project
+### Masters of Science in Data Analytics Program, UTSA
+
 Summary of project:
 
 Collected, consolidated, and filtered data related to COVID-19 from available sources.
