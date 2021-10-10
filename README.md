@@ -1,7 +1,7 @@
 # Covid-19 Dashboard Project
 ### Time of Project: Summer 2020
 ### Practicum Project
-### Masters of Science in Data Analytics Program, UTSA
+### Masters of Science in Data Analytics, UTSA
 
 For this project, I was tasked to build a dashboard for visualizing data related to Covid-19 in the United States. Specifically, I performed the following:
 
